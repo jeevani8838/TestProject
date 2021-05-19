@@ -13,7 +13,7 @@ public class FirstTest {
 				//System.setProperty("webdriver.chrome.driver","G:\\chromedriver.exe");
 				//WebDriver driver = new ChromeDriver();
 		    	
-		        String baseUrl = "http://www.codelabusa.com";
+		        String baseUrl = "http://www.edgecompu.com";
 		        String expectedTitle = "HOME | CODE LAB TECHNOLOGY INC.";
 		        String actualTitle = "";
 
